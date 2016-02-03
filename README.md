@@ -100,51 +100,51 @@ https://channel9.msdn.com/Blogs/raw-tech/Making-your-body-the-controller-Kinect-
 ### Reference / Inspiration ###
 *Repositories*
 
-https://github.com/golanlevin/ExperimentalCapture
-https://github.com/adafruit/Kinect
-https://github.com/jasonrwalters/Unity_Kinect
+- https://github.com/golanlevin/ExperimentalCapture
+- https://github.com/adafruit/Kinect
+- https://github.com/jasonrwalters/Unity_Kinect
 
 *Assets* 
 
-http://content.gpwiki.org/index.php/Game_Content_Resources
-http://freegamedev.net/wiki/Main_Page
+- http://content.gpwiki.org/index.php/Game_Content_Resources
+- http://freegamedev.net/wiki/Main_Page
 
 *Game Design*
-https://channel9.msdn.com/Blogs/raw-tech/10-Corny-Game-Design-Tips-8-will-Change-your-Life-FOREVER
+- https://channel9.msdn.com/Blogs/raw-tech/10-Corny-Game-Design-Tips-8-will-Change-your-Life-FOREVER
 
 
 *Graphics*
 
-http://opengameart.org/
-http://answers.unity3d.com/questions/16650/game-asset-website-list-free-and-paid-textures-mod.html
-https://channel9.msdn.com/Blogs/raw-tech/Illustration-for-Game-Developers-An-Interview-with-Olga-Andreyeva
+- http://opengameart.org/
+- http://answers.unity3d.com/questions/16650/game-asset-website-list-free-and-paid-textures-mod.html
+- https://channel9.msdn.com/Blogs/raw-tech/Illustration-for-Game-Developers-An-Interview-with-Olga-Andreyeva
 
 *Sound*
 
-https://channel9.msdn.com/Blogs/raw-tech/An-Intro-to-Audio-for-Game-Developers
-http://www.bfxr.net/
-http://www.superflashbros.net/as3sfxr/
-https://plus.google.com/+JesseFreeman/posts/BKqaAJW3rEk
+- https://channel9.msdn.com/Blogs/raw-tech/An-Intro-to-Audio-for-Game-Developers
+- http://www.bfxr.net/
+- http://www.superflashbros.net/as3sfxr/
+- https://plus.google.com/+JesseFreeman/posts/BKqaAJW3rEk
 
 *VR* 
 
-http://voicesofvr.com/
-https://channel9.msdn.com/Blogs/raw-tech/Samsung-VR-Kinect-and-Nodejs-A-Game-Embracing-VR--AR
-https://channel9.msdn.com/Series/Creating-Virtual-and-Augmented-Reality-Applications-on-Windows-Platform-en/2-en
-https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing
-https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions
-https://channel9.msdn.com/blogs/misslivirose/Beginning-VR-Development
+- http://voicesofvr.com/
+- https://channel9.msdn.com/Blogs/raw-tech/Samsung-VR-Kinect-and-Nodejs-A-Game-Embracing-VR--AR
+- https://channel9.msdn.com/Series/Creating-Virtual-and-Augmented-Reality-Applications-on-Windows-Platform-en/2-en
+- https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing
+- https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions
+- https://channel9.msdn.com/blogs/misslivirose/Beginning-VR-Development
 
 *Unity* 
 
-https://channel9.msdn.com/coding4fun/blog/Debugging-Unity-3D-with-VSCode
-https://channel9.msdn.com/Series/Developing-2D-3D-Games-with-Unity-for-Windows/02
+- https://channel9.msdn.com/coding4fun/blog/Debugging-Unity-3D-with-VSCode
+- https://channel9.msdn.com/Series/Developing-2D-3D-Games-with-Unity-for-Windows/02
 
 *Podcasts*
 
-http://gamedesignadvance.com/?page_id=1616
-http://alifewellwasted.com/
-https://player.fm/series/lostcast-7574
+- http://gamedesignadvance.com/?page_id=1616
+- http://alifewellwasted.com/
+- https://player.fm/series/lostcast-7574
 
 
 
