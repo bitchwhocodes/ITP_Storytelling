@@ -16,7 +16,9 @@ Technologies and software to be covered will be Unity3d, communication protocols
 - Final Project 25%
 
 ## Schedule
+
 **January 27th**
+
 Introduction to Unity and creation of simple game to gain familiarity with asset creation/import, introduction to c# scripting, familiarity with editor. 
 
 Cameras, Lighting, Input, Scenes
