@@ -4,8 +4,8 @@
 
 ## Assignment Number 1
 
-Description
+Finding story in an unlikely place led me to the gift shop at the entrance of the "Rainbow Bridge"...
 Link 
-[See full blog post](http://www.angelaitp.com/2016/02/01/discovering-story/)
+[Here is the link to the blog post -->](http://www.angelaitp.com/2016/02/01/discovering-story/)
 
 
