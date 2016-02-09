@@ -88,6 +88,7 @@ All class examples will be committed there along with any additional resources a
 
 ## Slack Channel ##
 This class will have a slack channel to post information, resources, and questions. 
+https://sensorystorytelling.slack.com/messages
 
 ## Resources ##
 ### Intro to C# 
