@@ -27,6 +27,7 @@ Assignment 1[Thinking about Narrative in Unusual Contexts]: Submit via Github st
 **February 3rd**
 
 Colliders, Physics. Building a simple 2d Pong game
+
 Tutorial Listed here https://channel9.msdn.com/Blogs/raw-tech/Make-Your-First-Unity2D-Pong-Game
 
 **February 10th**
