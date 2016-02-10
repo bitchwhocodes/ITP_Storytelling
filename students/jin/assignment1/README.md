@@ -1,5 +1,5 @@
 # STUDENT
 
-{Put Your Name}
+{Shan Jin}
 
-## Assignment Number 
+## Assignment 1 
