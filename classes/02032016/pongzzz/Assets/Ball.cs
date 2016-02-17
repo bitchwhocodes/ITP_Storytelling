@@ -42,7 +42,7 @@ public class Ball : MonoBehaviour {
 
 		if (col.gameObject.name == "rightRacket") {
 			float y = calculatePosition (transform.position, col.transform.position, col.collider.bounds.size.y);
-			Vector2 direction = new Vector2 (-1, 0).normalized;
+			Vector2 direction = new Vector2 (-1, y).normalized;
 			rb.velocity = direction * speed; 
 			snd.Play ();
 
