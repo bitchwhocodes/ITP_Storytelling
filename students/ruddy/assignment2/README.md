@@ -1,5 +1,7 @@
-# STUDENT
+# N14434687
 
-{Put Your Name}
+{Jamie Ruddy}
 
-## Assignment Number 
+## Assignment Number 2
+
+http://jamieruddyitp.com/fabulous-fireworks-aka-struggling-with-particle-systems/
