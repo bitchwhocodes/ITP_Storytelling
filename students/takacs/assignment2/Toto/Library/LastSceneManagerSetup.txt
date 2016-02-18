@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Grasslands.unity
+  isLoaded: 1
+  isActive: 0

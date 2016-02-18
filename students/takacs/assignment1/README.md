@@ -20,6 +20,6 @@ I loved it because it made me smile – it’s cute off the bat thanks to all th
 What story does it tell?
 It tells the story of people in their own world versus people in the outside world…and what’s great about this is that both of those people view the other as both of those things. What I mean by that is that both of them are in their own world (just getting through, and dancing and playing in the rain) – but both of those people can also be defined as living in the reality (having to deal with the struggles of getting through and having responsibilities, and enjoying what the nature world has provided that day). It’s pretty great. And it’s wonderful that you turn a corner, and encounter this on the wall.
 
-[Here is the link to Skuktur's website with CYMK] (http://skurktur.com/gallery/cmyk)
+
 [Here is another article about the mural] (http://www.mymodernmet.com/profiles/blogs/skurktur-cmyk-mural)
 [Aaaand for fun...I posted this whole thing on my blog...check it out] (http://www.katattakacs.com/itp/2016/02/03/unexpected-story-skurktur-cmyk/)

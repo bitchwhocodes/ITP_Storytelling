@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 2e6432f604ccf4bc5b67f6e3ff4cf45f
+timeCreated: 1455580372
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Background
+    21300002: Bucket
+    21300004: Rain
+    21300006: Top
+    21300008: Floor
+    21300010: RightWall
+    21300012: LeftWall
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Background
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 0
+        width: 2954
+        height: 1774
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -806.3478, y: 484.5}
+        - {x: -806.3478, y: -484.5}
+        - {x: 806.6522, y: -484.5}
+        - {x: 806.6522, y: 484.5}
+    - name: Bucket
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1687
+        width: 519
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -141.5861, y: 130.5813}
+        - {x: -141.5861, y: -130.4187}
+        - {x: 143.4139, y: -130.4187}
+        - {x: 143.4139, y: 130.5813}
+    - name: Rain
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1048
+        width: 314
+        height: 463
+      alignment: 9
+      pivot: {x: 0.48525205, y: 0.28996077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.050934, y: 179.79144}
+        - {x: -83.050934, y: -73.20856}
+        - {x: 88.949066, y: -73.20856}
+        - {x: 88.949066, y: 179.79144}
+    - name: Top
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1719
+        width: 2941
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -802.74994, y: 17.552917}
+        - {x: -802.74994, y: -16.447083}
+        - {x: 803.25006, y: -16.447083}
+        - {x: 803.25006, y: 17.552917}
+    - name: Floor
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 20
+        width: 2950
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+        - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+        - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+      - - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+        - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+      - - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+    - name: RightWall
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 0
+        width: 46
+        height: 1784
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+        - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+        - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+      - - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+        - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+      - - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+    - name: LeftWall
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 15
+        width: 51
+        height: 1769
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+        - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+        - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+      - - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+        - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+      - - {x: -806.3478, y: 485.546}
+        - {x: -806.3478, y: -484.454}
+        - {x: 806.6522, y: -484.454}
+        - {x: 806.6522, y: 485.546}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

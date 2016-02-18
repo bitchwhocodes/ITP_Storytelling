@@ -1,0 +1,17 @@
+/Users/katietakacs/Toto/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/katietakacs/Toto/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/katietakacs/Toto/obj/Debug/Assembly-CSharp.dll
+/Users/katietakacs/Toto/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/katietakacs/Toto/Temp/bin/Debug/UnityEngine.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/UnityEditor.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/Mono.Cecil.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/Unity.DataContract.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/katietakacs/Toto/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/katietakacs/Toto/Temp/bin/Debug/Mono.Cecil.Mdb.dll
