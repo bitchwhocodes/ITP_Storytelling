@@ -1,8 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AddCube.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Week 1/Wk1_inclass_cube/Assets/scripts/FloatCube.cs">
     <Files>
-      <File FileName="Assets/AddCube.cs" Line="19" Column="45" />
+      <File FileName="Assets/AddCube.cs" Line="1" Column="1" />
+      <File FileName="../../../../../../../../../Desktop/_Sensory Storytelling/pong/Assets/_scripts/Racket.cs" Line="1" Column="1" />
+      <File FileName="../../../../../../../../../Desktop/_Sensory Storytelling/pong/Assets/_scripts/Ball.cs" Line="1" Column="1" />
+      <File FileName="../../../../../Week 1/Wk1_inclass_cube/Assets/scripts/FloatCube.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
