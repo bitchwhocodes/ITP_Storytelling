@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Spaceship_control.cs">
+    <Files>
+      <File FileName="Assets/Script/Sheep_script.cs" Line="23" Column="3" />
+      <File FileName="Assets/Script/Spaceship_control.cs" Line="30" Column="3" />
+      <File FileName="Assets/Script/Bullet.cs" Line="14" Column="2" />
+      <File FileName="Assets/Script/Smoke_Effect.cs" Line="22" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
