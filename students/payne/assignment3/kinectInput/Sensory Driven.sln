@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensory Driven.CSharp.Plugins", "Sensory Driven.CSharp.Plugins.csproj", "{86DAA65F-1213-2C21-8953-C20B4FC132EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensory Driven.CSharp", "Sensory Driven.CSharp.csproj", "{42EACBB1-3513-9602-A6C3-E905F6A008C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensory Driven.CSharp.Editor.Plugins", "Sensory Driven.CSharp.Editor.Plugins.csproj", "{D08EB5EE-A91A-FB26-2B0C-661B27D8F30F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DAA65F-1213-2C21-8953-C20B4FC132EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DAA65F-1213-2C21-8953-C20B4FC132EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DAA65F-1213-2C21-8953-C20B4FC132EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DAA65F-1213-2C21-8953-C20B4FC132EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EACBB1-3513-9602-A6C3-E905F6A008C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EACBB1-3513-9602-A6C3-E905F6A008C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EACBB1-3513-9602-A6C3-E905F6A008C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EACBB1-3513-9602-A6C3-E905F6A008C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08EB5EE-A91A-FB26-2B0C-661B27D8F30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08EB5EE-A91A-FB26-2B0C-661B27D8F30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08EB5EE-A91A-FB26-2B0C-661B27D8F30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08EB5EE-A91A-FB26-2B0C-661B27D8F30F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
