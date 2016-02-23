@@ -20,12 +20,22 @@ public class moveBug : MonoBehaviour {
 
 	void FixedUpdate(){
 		
-		float v = Input.GetAxisRaw ("Vertical");
-		rbdy.velocity = new Vector3 (0, v, 0) * speed;
-		Debug.Log("vert arrows hit");
+		float v = Input.GetAxisRaw ("Jump");
+		//rbdy.velocity = new Vector3 (0, v, 0) * speed;
 
-		float h = Input.GetAxisRaw ("Horizontal");
-		rbdy.velocity = new Vector3 (h, 0, 0) * speed;
+		if(Input.GetKeyDown(KeyCode.Space)){
+			
+			rbdy.AddForce(new Vector3(0.0f, 30.0f, 0.0f));
+		} 
+		else if(Input.GetKeyUp(KeyCode.Space)) {
+			rbdy.AddForce(new Vector3(0.0f, -30.0f, 0.0f));
+		}
+//
+
+		Debug.Log("space bar pressed");
+
+		//float h = Input.GetAxisRaw ("Horizontal");
+		//rbdy.velocity = new Vector3 (h, 0, 0) * speed;
 	}
 //
 //	void OnCollisionEnter(Collision col){

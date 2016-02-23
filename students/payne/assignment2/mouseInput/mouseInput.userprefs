@@ -2,10 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/moveBug.cs">
     <Files>
-      <File FileName="Assets/scripts/floatBug.cs" Line="4" Column="22" />
-      <File FileName="Assets/scripts/moveBug.cs" Line="24" Column="29" />
-      <File FileName="Assets/scripts/mouseDown.cs" Line="22" Column="24" />
-      <File FileName="../../../../Documents/ITP /ITP Spring 2016/Sensory Storytelling/TommyWorks/ITP_Storytelling/students/payne/assignment1/pong/Assets/_scripts/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/floatBug.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/moveBug.cs" Line="25" Column="31" />
+      <File FileName="Assets/scripts/mouseDown.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
