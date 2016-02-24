@@ -16,12 +16,21 @@ public class AddCube : MonoBehaviour {
 					GameObject cube = GameObject.CreatePrimitive (PrimitiveType.Cube);
 					string nameNumber = (x + y).ToString ();
 					cube.name = "Brick"+nameNumber;
-					cube.transform.position = new Vector3 (Random.Range (-1f, 1f), Random.Range (-1f, 1f), 0);
+					cube.transform.localScale = new Vector3(4.0f,4.0f,4.0f);
+					cube.transform.position = new Vector3 (x, y,0);
+					cube.GetComponent<Renderer> ().material.SetColor ("_Color", Color.cyan);
 					cube.AddComponent<Rigidbody> ();
+					cube.GetComponent<Rigidbody> ().mass = Random.Range (0.1f, 10.0f);
 					TrailRenderer tr = cube.AddComponent<TrailRenderer> ();
-					tr.startWidth = 1.0f;
-					tr.endWidth = 0.10f;
-					tr.time = 1.0f;
+					tr.startWidth = Random.Range (10.0f, 1.0f);
+					tr.endWidth =Random.Range (10.0f, 1.0f);
+					tr.time = Random.Range (0.5f, 5.0f);
+					// Get the material list of the trail as per the scripting API.
+					Material trail = cube.GetComponent<TrailRenderer>().material;
+					//cube.transform.position = Vector3 (x, y, 0);
+					// Set the color of the material to tint the trail.
+					trail.SetColor("_Color", Color.green);
+					cube.transform.parent = this.gameObject.transform;
 				}
 
 			}
