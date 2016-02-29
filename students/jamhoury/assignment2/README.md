@@ -1,5 +1,7 @@
 # STUDENT
 
-{Put Your Name}
+Lisa Jamhoury
 
-## Assignment Number 
+## Assignment Number 2
+
+Documentation http://lmj.io/unity-particle-play/
