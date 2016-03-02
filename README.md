@@ -28,6 +28,8 @@ Assignment 1[Thinking about Narrative in Unusual Contexts]: Submit via Github st
 
 Colliders, Physics. Building a simple 2d Pong game
 
+Tutorial Listed here https://channel9.msdn.com/Blogs/raw-tech/Make-Your-First-Unity2D-Pong-Game
+
 **February 10th**
 
 Cameras, camera effects, particle systems, textures, and creative coding effects with Unity.
@@ -86,6 +88,7 @@ All class examples will be committed there along with any additional resources a
 
 ## Slack Channel ##
 This class will have a slack channel to post information, resources, and questions. 
+https://sensorystorytelling.slack.com/messages
 
 ## Resources ##
 ### Intro to C# 

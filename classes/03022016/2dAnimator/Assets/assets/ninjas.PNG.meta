@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 7ed4e8e5a65c9499bac3116eb82c00b9
+timeCreated: 1456943997
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninjas_0
+    21300002: ninjas_1
+    21300004: ninjas_2
+    21300006: ninjas_3
+    21300008: ninjas_4
+    21300010: ninjas_5
+    21300012: ninjas_6
+    21300014: ninjas_7
+    21300016: ninjas_8
+    21300018: ninjas_9
+    21300020: ninjas_10
+    21300022: ninjas_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ninjas_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -15}
+        - {x: 36, y: 6}
+        - {x: 32, y: 29}
+        - {x: 17, y: 36}
+        - {x: -13, y: 36}
+        - {x: -30, y: 32}
+        - {x: -36, y: 17}
+        - {x: -36, y: -16}
+        - {x: -33, y: -27}
+        - {x: -22, y: -36}
+        - {x: 22, y: -36}
+    - name: ninjas_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 36}
+        - {x: -31, y: 33}
+        - {x: -36, y: 18}
+        - {x: -36, y: -31}
+        - {x: -35, y: -35}
+        - {x: -28, y: -36}
+        - {x: 30, y: -36}
+        - {x: 36, y: -30}
+        - {x: 36, y: 33}
+        - {x: 26, y: 36}
+    - name: ninjas_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 360
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 36}
+        - {x: -32, y: 34}
+        - {x: -32, y: -29}
+        - {x: -24, y: -36}
+        - {x: 27, y: -36}
+        - {x: 32, y: -34}
+        - {x: 32, y: 30}
+        - {x: 19, y: 36}
+    - name: ninjas_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 360
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 36}
+        - {x: -28, y: 30}
+        - {x: -28, y: -26}
+        - {x: -11, y: -36}
+        - {x: 15, y: -36}
+        - {x: 28, y: -26}
+        - {x: 28, y: 34}
+        - {x: 14, y: 36}
+    - name: ninjas_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 36}
+        - {x: -14, y: 36}
+        - {x: -31, y: 33}
+        - {x: -36, y: 25}
+        - {x: -36, y: -27}
+        - {x: -31, y: -36}
+        - {x: 19, y: -36}
+        - {x: 36, y: -22}
+        - {x: 36, y: 4}
+        - {x: 32, y: 29}
+    - name: ninjas_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 272
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -15}
+        - {x: 36, y: 6}
+        - {x: 32, y: 29}
+        - {x: 17, y: 36}
+        - {x: -13, y: 36}
+        - {x: -30, y: 32}
+        - {x: -36, y: 17}
+        - {x: -36, y: -16}
+        - {x: -33, y: -27}
+        - {x: -22, y: -36}
+        - {x: 22, y: -36}
+    - name: ninjas_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 272
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 36}
+        - {x: -28, y: 36}
+        - {x: -32, y: 35}
+        - {x: -32, y: -27}
+        - {x: -26, y: -36}
+        - {x: 20, y: -36}
+        - {x: 32, y: -29}
+        - {x: 32, y: 35}
+    - name: ninjas_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 184
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -15}
+        - {x: 36, y: 6}
+        - {x: 32, y: 29}
+        - {x: 17, y: 36}
+        - {x: -13, y: 36}
+        - {x: -30, y: 32}
+        - {x: -36, y: 17}
+        - {x: -36, y: -16}
+        - {x: -33, y: -27}
+        - {x: -22, y: -36}
+        - {x: 22, y: -36}
+    - name: ninjas_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 188
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 34}
+        - {x: -31, y: 31}
+        - {x: -36, y: 16}
+        - {x: -36, y: -18}
+        - {x: -33, y: -28}
+        - {x: -23, y: -34}
+        - {x: 34, y: -34}
+        - {x: 36, y: -33}
+        - {x: 36, y: 31}
+        - {x: 25, y: 34}
+    - name: ninjas_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -15}
+        - {x: 36, y: 6}
+        - {x: 32, y: 29}
+        - {x: 17, y: 36}
+        - {x: -13, y: 36}
+        - {x: -30, y: 32}
+        - {x: -36, y: 17}
+        - {x: -36, y: -16}
+        - {x: -33, y: -27}
+        - {x: -22, y: -36}
+        - {x: 22, y: -36}
+    - name: ninjas_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30}
+        - {x: -28, y: 24}
+        - {x: -28, y: -30}
+        - {x: 28, y: -30}
+        - {x: 28, y: 28}
+        - {x: 14, y: 30}
+    - name: ninjas_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 32
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
