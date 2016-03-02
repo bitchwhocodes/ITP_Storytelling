@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D6B6B668-DBCA-9D4F-E774-BB654226EBE3}") = "Animation", "Assembly-CSharp-firstpass.csproj", "{D7D0CA6F-7B28-B0AA-CD76-B37BED74AA91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7D0CA6F-7B28-B0AA-CD76-B37BED74AA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D0CA6F-7B28-B0AA-CD76-B37BED74AA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D0CA6F-7B28-B0AA-CD76-B37BED74AA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D0CA6F-7B28-B0AA-CD76-B37BED74AA91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -3,6 +3,7 @@
   var socket = io('http://localhost:3000');
   socket.on('sendname', function (data) {
     console.log(data);
+   
     socket.emit('saymyname', { name: data.name+" : "+new Date().toString() });
     
   });
