@@ -1,5 +1,25 @@
 # STUDENT
 
-{Put Your Name}
+{Katie Takacs}
 
-## Assignment Number 
+## Assignment 3
+
+For Assignment 3, we had to make some external affect something in Unity.
+
+I decided I wanted to play with the Leap Motion - I want this project to feed into my final, and for my final, I want to use Leap Motion. I've never ever used it before - this I must admit, once I got jus the Leap Motion part working, I spent an embarrassing amount of time making my hands move my computer hands with a trailblazer, and then a particle renderer, for kicks...and research.
+
+I relied pretty heavily on the Unity Asset Store. I first started by downloading the Leap Motion package from the Unity Asset Store - specifically search for : Leap Motion Core Assets. Once that was imported, I looked at the Scenes for specifically Leap Motion (Project > Assets > Leap Motion > Scenes). That's where I started playing with everything. From that, the 3 scenes I found the most useful were the MagneticPinch, PinchingSandbox, and VoxelHand. So those are the ones I started toying with.
+
+With the VoxelHand I played with the particle renderer. To do this, drag the VoxelHand into the Hierarchy on the left, in order to load the scene. Then, expand the Scene, so you can see Voxel Hand. I started by highlighting just that, and going to the Inspector. Add Component > Effects > Particle System...and then I played. And by play, I literally mean I changed the different settings in the time portions of the Particle Rendered, and the Shapes to see what each thing did. And waved my hands around...with this, I need to figure out how to change the shapes to 'f's - I think I'm about 2 clicks away from finding the one thing to do that, but for now, I just played with the settings I liked. I then removed the particle rendered from there, and added it to just the palm of the hand, then index finger, then bone 1 of the index finger. The thing that I noticed was that once I got to the bone portion, it didn't make much of a visual difference compared to just the index finger. So all of those things are things to put in my back pocket for later. I went to 'Save Scene As' and made a new folder called ScenesKT to add to the Assets folder, then named this scene VoxelHandParticles - to play with later.
+
+Next I started playing with the Pinching Sandbox. I decided to focus on this for Assignment 3. I had been playing with 3D text for a bit, but didn't get too far - so I opted to go to the Asset store and see what they had for pre-made letters. Sure enough, they had a full package, and I decided it was worth it so that I could play with more of how this all worked together.
+
+First, I loaded Pinching Sandbox into the Hierarchy by dragging it. Then, I 'Save Scene As...' to FlyingFsV1. This is the scene that should get loaded for my actual Assignment3. Then I set out to play with everything. I started by simply changing the material on each Plane that made up the Sandbox. You do this by clicking on the Plane you want, then go the Inspector > Mesh Renderer > Materials > Element 0...if you click to the right of the Element 0 box that has a material listed, the prompt with come up with all your materials available. I chose from one that was existing, but for the final, I'm working on my own. (Research to come.)
+
+Next, I checked out the cubes. The thing that makes the cubes able to interact with the hands is that they are RigidBodys and Box Colliders. So I start by importing 1 F from the Prefabs from by letter assets. Go to Assets > 3D User Interface Elements > Prefabs > Alphabet. I picked my 'F' and dragged it into the hierarchy. I then highlighted it, went to the Inspector > Transform > Scale and changed X, Y, and Z to .5...as my F was huge! Then, Add Component > Physics > Rigidbody (make sure 'Use Gravity' is checked); and Add Component > Physics > Box Collider. Then, I suggest you play to make sure your 'F' interacts in roughly the same way as the cubes already in the scene. Once you're good there, add as many 'F's, and 'f's as you want - scaling however you want. Then, delete the cubes by highlighting and right clicking, then finding delete. (I also played with Particle Renderer and Trail Renderer, adding them to the F's and the hands to see how it all looked.)
+
+At this point, the basics are done. I added music to start up because for the final I want it, and it makes it more entertaining as you're throwing around F's.
+
+I liked this because I was able to do a lot without depending on code (which I am lacking in). I still need to get into it for my final - but I'm happy that I have these building blocks to start with. For my final, I want to see about making the planes look like they are made out of computer key boards squares...I was searching through some research and came across this artist: Sarah Frost, and I was very inspired. I still want the walls to be dark, with white letters, but I really like what this is. (I also feel the need to start collecting keys from keyboards for art projects now...)
+
+[Here is the link to this blog entry with some videos of me playing this 'game'] (http://www.katattakacs.com/itp/2016/03/02/that-effing-f-assignment-3-for-sds/)
