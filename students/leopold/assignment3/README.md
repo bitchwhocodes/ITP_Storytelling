@@ -1,5 +1,7 @@
 # STUDENT
 
-{Put Your Name}
+{rebecca (marks) leopold}
 
-## Assignment Number 
+## Assignment Number 3
+
+un/successfully got OSC to control a sphere from my phone.
