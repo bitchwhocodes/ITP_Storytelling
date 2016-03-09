@@ -1,0 +1,17 @@
+/Users/David_Lockard/Pong2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/David_Lockard/Pong2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/David_Lockard/Pong2/obj/Debug/Assembly-CSharp.dll
+/Users/David_Lockard/Pong2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/David_Lockard/Pong2/Temp/bin/Debug/UnityEngine.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/UnityEditor.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/David_Lockard/Pong2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/David_Lockard/Pong2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
