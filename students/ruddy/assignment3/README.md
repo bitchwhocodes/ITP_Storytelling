@@ -1,5 +1,6 @@
-# STUDENT
+# Jamie Ruddy
 
 {Put Your Name}
 
-## Assignment Number 
+## http://jamieruddyitp.com/adventures-in-cardboard/
+## Project is on Dropbox

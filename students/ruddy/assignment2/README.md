@@ -1,5 +1,5 @@
-# STUDENT
+# Jamie Ruddy
 
 {Put Your Name}
 
-## Assignment Number 
+## http://jamieruddyitp.com/fabulous-fireworks-aka-struggling-with-particle-systems/ 

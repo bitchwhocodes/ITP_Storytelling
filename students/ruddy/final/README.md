@@ -1,5 +1,6 @@
-# STUDENT
+# Jamie Ruddy
 
 {Put Your Name}
 
-## Assignment Number 
+## http://jamieruddyitp.com/ninja-vr/
+## File of project is in same Dropbox folder as last week.
