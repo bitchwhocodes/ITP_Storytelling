@@ -138,6 +138,10 @@ https://channel9.msdn.com/Blogs/raw-tech/Making-your-body-the-controller-Kinect-
 - https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions
 - https://channel9.msdn.com/blogs/misslivirose/Beginning-VR-Development
 
+- https://livierickson.com/blog/
+
+- https://github.com/misslivirose/learnvr
+
 *Unity* 
 
 - https://channel9.msdn.com/coding4fun/blog/Debugging-Unity-3D-with-VSCode
