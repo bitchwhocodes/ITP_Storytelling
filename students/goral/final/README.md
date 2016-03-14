@@ -1,5 +1,8 @@
-# STUDENT
+Matt Goral
 
-{Put Your Name}
+Final Assignment
 
-## Assignment Number 
+
+This is the Make It Rain Simulator! This game uses Unity and TouchOSC (Android) in combo to keep the party going!
+
+

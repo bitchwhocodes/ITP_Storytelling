@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeItRain.CSharp.Plugins", "MakeItRain.CSharp.Plugins.csproj", "{996F114A-A75F-2F57-3D8D-8F9662C02703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeItRain.CSharp", "MakeItRain.CSharp.csproj", "{B4B777A0-20E5-264D-E230-7C7C63FFDF49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996F114A-A75F-2F57-3D8D-8F9662C02703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996F114A-A75F-2F57-3D8D-8F9662C02703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996F114A-A75F-2F57-3D8D-8F9662C02703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996F114A-A75F-2F57-3D8D-8F9662C02703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B777A0-20E5-264D-E230-7C7C63FFDF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B777A0-20E5-264D-E230-7C7C63FFDF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B777A0-20E5-264D-E230-7C7C63FFDF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B777A0-20E5-264D-E230-7C7C63FFDF49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
