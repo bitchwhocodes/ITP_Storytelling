@@ -1,0 +1,98 @@
+fileFormatVersion: 2
+guid: 7204e95b01b7742888e2be58d171a21f
+timeCreated: 1455689015
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Disco
+    100002: //RootNode
+    100004: Santa_Claus_BABBO
+    100006: Santa_Claus_occhio_destro
+    100008: Santa_Claus_occhio_sinistro
+    100010: Santa_Claus_Sfera
+    400000: Disco
+    400002: //RootNode
+    400004: Santa_Claus_BABBO
+    400006: Santa_Claus_occhio_destro
+    400008: Santa_Claus_occhio_sinistro
+    400010: Santa_Claus_Sfera
+    2300000: Disco
+    2300002: Santa_Claus_BABBO
+    2300004: Santa_Claus_occhio_destro
+    2300006: Santa_Claus_occhio_sinistro
+    2300008: Santa_Claus_Sfera
+    3300000: Disco
+    3300002: Santa_Claus_BABBO
+    3300004: Santa_Claus_occhio_destro
+    3300006: Santa_Claus_occhio_sinistro
+    3300008: Santa_Claus_Sfera
+    4300000: Disco
+    4300002: Santa_Claus_BABBO
+    4300004: Santa_Claus_occhio_destro
+    4300006: Santa_Claus_occhio_sinistro
+    4300008: Santa_Claus_Sfera
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

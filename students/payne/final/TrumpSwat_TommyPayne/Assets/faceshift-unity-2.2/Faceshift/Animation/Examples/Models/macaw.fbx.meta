@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 26a0d8b7f69c8724bae72aebfeb14031
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group
+    100002: jointEyeLeft
+    100004: jointEyeRight
+    100006: jointNeck
+    100008: jointShouldersMiddle
+    100010: //RootNode
+    100012: MacawEyeLeft_Mesh
+    100014: MacawEyeRight_Mesh
+    100016: MacawHead_Mesh
+    100018: MacawJaw_Mesh
+    100020: MacawUpperGum_Mesh
+    100022: MacawUpperTeeth_Mesh
+    100024: EyeLeft_Mesh
+    100026: EyeRight_Mesh
+    100028: Head_Mesh
+    100030: Jaw_Mesh
+    100032: UpperTeeth_Mesh
+    400000: group
+    400002: jointEyeLeft
+    400004: jointEyeRight
+    400006: jointNeck
+    400008: jointShouldersMiddle
+    400010: //RootNode
+    400012: MacawEyeLeft_Mesh
+    400014: MacawEyeRight_Mesh
+    400016: MacawHead_Mesh
+    400018: MacawJaw_Mesh
+    400020: MacawUpperGum_Mesh
+    400022: MacawUpperTeeth_Mesh
+    400024: EyeLeft_Mesh
+    400026: EyeRight_Mesh
+    400028: Head_Mesh
+    400030: Jaw_Mesh
+    400032: UpperTeeth_Mesh
+    4300000: MacawHead_Mesh
+    4300002: MacawEyeLeft_Mesh
+    4300004: MacawEyeRight_Mesh
+    4300006: MacawUpperTeeth_Mesh
+    4300008: MacawUpperGum_Mesh
+    4300010: MacawJaw_Mesh
+    4300012: EyeLeft_Mesh
+    4300014: EyeRight_Mesh
+    4300016: Head_Mesh
+    4300018: Jaw_Mesh
+    4300020: UpperTeeth_Mesh
+    9500000: //RootNode
+    13700000: MacawEyeLeft_Mesh
+    13700002: MacawEyeRight_Mesh
+    13700004: MacawHead_Mesh
+    13700006: MacawJaw_Mesh
+    13700008: MacawUpperGum_Mesh
+    13700010: MacawUpperTeeth_Mesh
+    13700012: EyeLeft_Mesh
+    13700014: EyeRight_Mesh
+    13700016: Head_Mesh
+    13700018: Jaw_Mesh
+    13700020: UpperTeeth_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 120
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

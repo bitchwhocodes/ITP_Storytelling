@@ -1,5 +1,7 @@
 # STUDENT
 
-{Put Your Name}
+{Tommy Payne}
 
-## Assignment Number 
+Assignment's for Sensory Storytelling
+Spring 2016
+ITP NYU 

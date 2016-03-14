@@ -1,0 +1,16 @@
+<script src="/socket.io/socket.io.js"></script>
+<script>
+  var socket = io('http://localhost:3000');
+  socket.on('sendname', function (data) {
+    console.log(data);
+    socket.emit('saymyname', { name: data.name+" : "+new Date().toString() });
+    
+  });
+  
+  socket.on('randomnumber',function(data){
+      //just repeat back that value
+      console.log(data);
+       socket.emit('randomnumberdone', { data:data  });
+  });
+  
+</script>
