@@ -1,5 +1,6 @@
 # STUDENT
 
-{Put Your Name}
+{rebecca (marks) leopold}
 
-## Assignment Number 
+##FINA - I tried to add a sound of the clock 
+##ticking - but i cldnt get it right.
