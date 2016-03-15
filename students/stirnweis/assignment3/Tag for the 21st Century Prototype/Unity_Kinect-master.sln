@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_Kinect-master.CSharp.Plugins", "Unity_Kinect-master.CSharp.Plugins.csproj", "{974F3651-829D-F148-2E83-834C9D84C5BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_Kinect-master.CSharp", "Unity_Kinect-master.CSharp.csproj", "{33C013C7-1202-399D-7F86-7A0B9E064FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_Kinect-master.CSharp.Editor.Plugins", "Unity_Kinect-master.CSharp.Editor.Plugins.csproj", "{4B027BB8-C166-1F55-E832-5FBC37DF5DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_Kinect-master.CSharp.Editor", "Unity_Kinect-master.CSharp.Editor.csproj", "{4C93B12C-9BD2-D195-C310-654A6A787A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{974F3651-829D-F148-2E83-834C9D84C5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974F3651-829D-F148-2E83-834C9D84C5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974F3651-829D-F148-2E83-834C9D84C5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974F3651-829D-F148-2E83-834C9D84C5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C013C7-1202-399D-7F86-7A0B9E064FC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C013C7-1202-399D-7F86-7A0B9E064FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C013C7-1202-399D-7F86-7A0B9E064FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C013C7-1202-399D-7F86-7A0B9E064FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B027BB8-C166-1F55-E832-5FBC37DF5DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B027BB8-C166-1F55-E832-5FBC37DF5DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B027BB8-C166-1F55-E832-5FBC37DF5DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B027BB8-C166-1F55-E832-5FBC37DF5DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C93B12C-9BD2-D195-C310-654A6A787A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C93B12C-9BD2-D195-C310-654A6A787A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C93B12C-9BD2-D195-C310-654A6A787A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C93B12C-9BD2-D195-C310-654A6A787A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

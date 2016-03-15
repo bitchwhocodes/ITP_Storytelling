@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fireworks particle.CSharp.Plugins", "fireworks particle.CSharp.Plugins.csproj", "{C56A9D75-38EA-F991-D348-7593F54A6ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fireworks particle.CSharp", "fireworks particle.CSharp.csproj", "{6333A9D2-B62E-7014-C437-B77A3EC1FF73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fireworks particle.CSharp.Editor", "fireworks particle.CSharp.Editor.csproj", "{A0FD12F5-A1ED-F9FA-9F65-6DF85F9FDA6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56A9D75-38EA-F991-D348-7593F54A6ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56A9D75-38EA-F991-D348-7593F54A6ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56A9D75-38EA-F991-D348-7593F54A6ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56A9D75-38EA-F991-D348-7593F54A6ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6333A9D2-B62E-7014-C437-B77A3EC1FF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6333A9D2-B62E-7014-C437-B77A3EC1FF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6333A9D2-B62E-7014-C437-B77A3EC1FF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6333A9D2-B62E-7014-C437-B77A3EC1FF73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0FD12F5-A1ED-F9FA-9F65-6DF85F9FDA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FD12F5-A1ED-F9FA-9F65-6DF85F9FDA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FD12F5-A1ED-F9FA-9F65-6DF85F9FDA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FD12F5-A1ED-F9FA-9F65-6DF85F9FDA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{48C52057-D3ED-2072-DFF7-883C7618F074}") = "PrefabCubes", "Assembly-CSharp.csproj", "{E9A36268-3B62-F88F-2964-07F343553162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A36268-3B62-F88F-2964-07F343553162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A36268-3B62-F88F-2964-07F343553162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A36268-3B62-F88F-2964-07F343553162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A36268-3B62-F88F-2964-07F343553162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 49b5d2c0b3c5e40a28b9730caa1839ca
+timeCreated: 1454981984
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: background
+    21300002: horizontalwall
+    21300004: verticalwall
+    21300006: divider
+    21300008: racket
+    21300010: ball
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: background
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 114
+        width: 631
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -315.5, y: 212}
+        - {x: -315.5, y: -212}
+        - {x: 315.5, y: -212}
+        - {x: 315.5, y: 212}
+    - name: horizontalwall
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 551
+        width: 669
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline:
+      - - {x: -334.5, y: 20}
+        - {x: -334.5, y: -20}
+        - {x: 334.5, y: -20}
+        - {x: 334.5, y: 20}
+    - name: verticalwall
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 163
+        width: 39
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 213}
+        - {x: -19.5, y: -213}
+        - {x: 19.5, y: -213}
+        - {x: 19.5, y: 213}
+    - name: divider
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 38
+        width: 44
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -235.5}
+        - {x: -22, y: -237.5}
+        - {x: -22, y: -277.5}
+        - {x: -20, y: -279.5}
+        - {x: 20, y: -279.5}
+        - {x: 22, y: -277.5}
+        - {x: 22, y: -237.5}
+        - {x: 20, y: -235.5}
+      - - {x: -22, y: -227.5}
+        - {x: 22, y: -227.5}
+        - {x: 22, y: -183.5}
+        - {x: -22, y: -183.5}
+      - - {x: -20, y: -131.5}
+        - {x: -22, y: -133.5}
+        - {x: -22, y: -173.5}
+        - {x: -20, y: -175.5}
+        - {x: 20, y: -175.5}
+        - {x: 22, y: -173.5}
+        - {x: 22, y: -133.5}
+        - {x: 20, y: -131.5}
+      - - {x: -20, y: -79.5}
+        - {x: -22, y: -81.5}
+        - {x: -22, y: -121.5}
+        - {x: -20, y: -123.5}
+        - {x: 20, y: -123.5}
+        - {x: 22, y: -121.5}
+        - {x: 22, y: -81.5}
+        - {x: 20, y: -79.5}
+      - - {x: -20, y: -27.5}
+        - {x: -22, y: -29.5}
+        - {x: -22, y: -69.5}
+        - {x: -20, y: -71.5}
+        - {x: 20, y: -71.5}
+        - {x: 22, y: -69.5}
+        - {x: 22, y: -29.5}
+        - {x: 20, y: -27.5}
+      - - {x: -22, y: -19.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 24.5}
+        - {x: -22, y: 24.5}
+      - - {x: -22, y: 32.5}
+        - {x: 22, y: 32.5}
+        - {x: 22, y: 76.5}
+        - {x: -22, y: 76.5}
+      - - {x: -22, y: 84.5}
+        - {x: 22, y: 84.5}
+        - {x: 22, y: 128.5}
+        - {x: -22, y: 128.5}
+      - - {x: -22, y: 136.5}
+        - {x: 22, y: 136.5}
+        - {x: 22, y: 180.5}
+        - {x: -22, y: 180.5}
+      - - {x: -22, y: 188.5}
+        - {x: 22, y: 188.5}
+        - {x: 22, y: 232.5}
+        - {x: -22, y: 232.5}
+      - - {x: -22, y: 279.5}
+        - {x: -22, y: 242.5}
+        - {x: -20, y: 240.5}
+        - {x: 20, y: 240.5}
+        - {x: 22, y: 242.5}
+        - {x: 22, y: 279.5}
+    - name: racket
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 444
+        width: 48
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 63}
+        - {x: -24, y: -63}
+        - {x: 24, y: -63}
+        - {x: 24, y: 63}
+    - name: ball
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 385
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 18}
+        - {x: -17.5, y: -18}
+        - {x: 15.5, y: -18}
+        - {x: 17.5, y: -16}
+        - {x: 17.5, y: 18}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
