@@ -1,0 +1,34 @@
+<html>
+	<head>
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript">
+		
+			var socket = io.connect('http://localhost:8080/');
+			
+			socket.on('connect', function() {
+				console.log("Connected");
+			});
+
+			// Receive from any event
+			socket.on('chatmessage', function (data) {
+				console.log(data);
+				document.getElementById('messages').innerHTML = "" + data + 
+ + "" + document.getElementById('messages').innerHTML;
+			});
+			
+			var sendmessage = function(message) {
+				console.log("chatmessage: client sending - " + message);
+				socket.emit('chatmessage', message);
+			};
+
+	
+		</script>	
+	</head>
+ <body>
+ <div id="messages">
+ No Messages Yet
+ </div>
+ <input type="text" id="message" name="message">
+ <input type="submit" value="submit" onclick="sendmessage(document.getElementById('message').value);">
+ </body>
+</html>
